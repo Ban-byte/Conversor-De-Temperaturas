@@ -28,6 +28,4 @@ A proposta é oferecer uma interface intuitiva e responsiva, ideal para fins edu
 3. Digite o valor da temperatura e selecione as escalas de origem e destino.
 4. Clique em "Converter" para visualizar o resultado.
 
----
 
-##  Estrutura de Arquivos
