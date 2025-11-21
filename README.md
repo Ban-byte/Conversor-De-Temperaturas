@@ -1,4 +1,4 @@
-# 🌡️ Conversor de Temperaturas
+#  Conversor de Temperaturas
 
 ##  Objetivo do Projeto
 Este projeto tem como objetivo criar uma aplicação web simples e funcional que permita ao usuário converter valores entre diferentes escalas de temperatura: Celsius, Fahrenheit e Kelvin.  
