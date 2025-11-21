@@ -1,0 +1,9 @@
+feat: adicionar função de conversão Celsius -> Fahrenheit
+
+style: ajustar cores e layout do CSS
+
+fix: corrigir bug na validação de entrada
+
+docs: criar README.md com instruções do projeto
+
+refactor: melhorar organização do código JavaScript
